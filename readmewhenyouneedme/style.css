@@ -1,0 +1,21 @@
+.container-fluid{
+    background-color:rgb(251, 223, 228);
+    padding:1.5%;
+    font-family:'Lucida Calligraphy';
+}
+body{
+    color: rgb(236, 195, 202);
+    align-items: center;
+}
+#carouselExample {
+  width: 500px;
+  margin: 0 auto; 
+}
+
+#carouselExample .carousel-item img {
+  display: block;
+  margin: 0 auto; 
+  max-width: 100%;
+  height: auto;
+}
+
